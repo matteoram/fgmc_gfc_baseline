@@ -1,190 +1,56 @@
-Details of Revenue and Expenditure,"Actual
-2024","Budget
-2025","Revised
-2025","Budget
-2026"
-Total Revenue,"1 ,437.500","1 ,474.208","1,607.640","1,695.326"
-Recurrent Revenue,"1 ,437.500","1 ,474.208","1,607.640","1,695.326"
-"Subsidies and Contributions from Central Government
-Contribution
-Revenue from Operations
-Sale of Goods and Services
-Fees, Fines, etc.
-Rents, Royalties, etc.
-Other Recurrent Revenue
-Interest Received
-Miscellaneous Receipts","-
--
-1 ,415.500
--
-7 60.000
-6 55.500
-2 2.000
--
-2 2.000","-
--
-1 ,450.888
--
-7 79.000
-6 71.888
-2 3.320
--
-2 3.320","-
--
-1,557.031
--
-811.219
-745.812
-50.609
--
-50.609","-
--
-1,671.773
--
-814.445
-857.328
-23.553
--
-23.553"
+,BUDGETS OF CONSTITUTIONAL AGENCIES  AND STATUTORY BODIES,,,
+,DETAILS OF REVENUE AND EXPENDITURE,,,
+Agency:  26 Ministry of Natural Resources,,,,
+Programme:  262 Natural Resource Management,,,,
+Statutory Body:  Guyana Forestry Commission,,,,
+,Actual,Budget,Revised,Budget
+Details of Revenue and Expenditure,2024,2025,2025,2026
+Total Revenue,"1,437.500","1,474.208","1,607.640","1,695.326"
+Recurrent Revenue,"1,437.500","1,474.208","1,607.640","1,695.326"
+Subsidies and Contributions from Central Government,-,-,-,-
+Contribution,-,-,-,-
+Revenue from Operations,"1,415.500","1,450.888","1,557.031","1,671.773"
+Sale of Goods and Services,-,-,-,-
+"Fees, Fines, etc.",760.000,779.000,811.219,814.445
+"Rents, Royalties, etc.",655.500,671.888,745.812,857.328
+Other Recurrent Revenue,22.000,23.320,50.609,23.553
+Interest Received,-,-,-,-
+Miscellaneous Receipts,22.000,23.320,50.609,23.553
 Capital Revenue,-,-,-,-
-"Capital Grants from Central Government
-Sale of Assets, etc.
-Miscellaneous Capital Revenue","-
--
--","-
--
--","-
--
--","-
--
--"
+Capital Grants from Central Government,-,-,-,-
+"Sale of Assets, etc.",-,-,-,-
+Miscellaneous Capital Revenue,-,-,-,-
 External Grants,-,-,-,-
 External Grants,-,,-,
-Total Expenditure,"1 ,406.465","1 ,432.602","1,571.821","1,662.333"
-Recurrent Expenditure,"1 ,361.465","1 ,397.602","1,538.321","1,617.333"
-"Employment Cost
-Wages and Salaries
-Overhead Expenditure
-Other Recurrent Charges
-Materials, Equipment and Supplies
-Fuel and Lubricants
-Rental and Maintenance of Buildings
-Maintenance of Infrastructure
-Transport, Travel and Postage
-Utility Charges
-Other Goods and Services Purchased
-Other Operating Expenses
-Education Subventions and Training
-Rates and Taxes and Subventions to Local Authority
-Subsidies and Contributions to Local and International Organisation
-Pensions
-Internal Interest
-External Interest
-Transfer to Central Government","8 90.809
-8 27.343
-6 3.466
-4 70.656
-3 5.500
-4 6.960
-5 4.026
--
-2 15.520
-4 5.250
-4 0.100
-2 6.700
-2 .850
-2 .600
-1 .150
--
--
--
--","9 17.533
-8 52.163
-6 5.370
-4 80.069
-3 6.210
-4 7.899
-5 5.107
--
-2 19.830
-4 6.155
-4 0.902
-2 7.234
-2 .907
-2 .652
-1 .173
--
--
--
--","1,059.156
-987.703
-71.453
-479.165
-35.756
-47.638
-54.997
--
-221.164
-46.051
-39.785
-27.167
-2.844
-2.628
-1.135
--
--
--
--","1,119.994
-1,051.356
-68.638
-497.339
-38.042
-50.323
-57.895
--
-226.425
-47.540
-42.129
-28.051
-2.994
-2.732
-1.208
--
--
--
--"
-Capital Expenditure,4 5.000,3 5.000,33.500,45.000
-Capital Expenditure,4 5.000,3 5.000,33.500,45.000
-Surplus (Deficit),3 1.035,4 1.606,35.819,32.993
+Total Expenditure,"1,406.465","1,432.602","1,571.821","1,662.333"
+Recurrent Expenditure,"1,361.465","1,397.602","1,538.321","1,617.333"
+Employment Cost,890.809,917.533,"1,059.156","1,119.994"
+Wages and Salaries,827.343,852.163,987.703,"1,051.356"
+Overhead Expenditure,63.466,65.370,71.453,68.638
+Other Recurrent Charges,470.656,480.069,479.165,497.339
+"Materials, Equipment and Supplies",35.500,36.210,35.756,38.042
+Fuel and Lubricants,46.960,47.899,47.638,50.323
+Rental and Maintenance of Buildings,54.026,55.107,54.997,57.895
+Maintenance of Infrastructure,-,-,-,-
+"Transport, Travel and Postage",215.520,219.830,221.164,226.425
+Utility Charges,45.250,46.155,46.051,47.540
+Other Goods and Services Purchased,40.100,40.902,39.785,42.129
+Other Operating Expenses,26.700,27.234,27.167,28.051
+Education Subventions and Training,2.850,2.907,2.844,2.994
+Rates and Taxes and Subventions to Local Authority,2.600,2.652,2.628,2.732
+Subsidies and Contributions to Local and International Organisation,1.150,1.173,1.135,1.208
+Pensions,-,-,-,-
+Internal Interest,-,-,-,-
+External Interest,-,-,-,-
+Transfer to Central Government,-,-,-,-
+Capital Expenditure,45.000,35.000,33.500,45.000
+Capital Expenditure,45.000,35.000,33.500,45.000
+Surplus (Deficit),31.035,41.606,35.819,32.993
 Total Financing,(31.035),(41.606),(35.819),(32.993)
-"External Loans (Net)
-External Loans - Disbursements
-External Loans - Principal Repayments
-Internal Loans (Net)
-Internal Loans - Disbursements
-Internal Loans - Principal Repayments
-Net Decrease/(Increase) in Cash and Bank Balances","-
--
--
--
--
--
-(31.035)","-
--
--
--
--
--
-(41.606)","-
--
--
--
--
--
-(35.819)","-
--
--
--
--
--
-(32.993)"
+External Loans (Net),-,-,-,-
+External Loans - Disbursements,-,-,-,-
+External Loans - Principal Repayments,-,-,-,-
+Internal Loans (Net),-,-,-,-
+Internal Loans - Disbursements,-,-,-,-
+Internal Loans - Principal Repayments,-,-,-,-
+Net Decrease/(Increase) in Cash and Bank Balances,(31.035),(41.606),(35.819),(32.993)
