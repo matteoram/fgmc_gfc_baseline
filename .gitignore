@@ -1,0 +1,5 @@
+.DS_Store
+.venv/
+admin/
+meetings/
+__pycache__/
